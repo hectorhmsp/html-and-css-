@@ -1,0 +1,147 @@
+.uber {
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 100px;
+	border: none;
+	margin-right: 8px;
+	cursor: pointer;
+	transition: opacity 0.15s;
+}
+
+.uber:hover {
+	opacity: 0.8;
+}
+
+.uber:active {
+	opacity: 0.5;
+}
+
+.amazon {
+	background-color: rgb(255, 216, 20);
+	border-radius: 12px;
+	height: 40px;
+	width: 140px;
+	color: black;
+	border: none;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	transition: background-color 0.15s;
+}
+
+.amazon:hover {
+	background-color: rgb(219, 186, 20);
+}
+
+.amazon:active {
+	opacity: 0.8;
+}
+
+.github {
+	background-color: rgb(46, 164, 79);
+	color: white;
+	height: 40px;
+	width: 100px;
+	border: none;
+	cursor: pointer;
+	border-radius: 8px;
+	font-size: 18px;
+	transition: box-shadow 0.15s;
+}
+
+.github:hover {
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.15)
+}
+
+.bootstrap_started {
+	background-color: rgb(121, 82, 179);
+	border: none;
+	height: 40px;
+	width: 100px;
+	color: white;
+	font-weight: 600;
+	border-radius:8px;
+	cursor: pointer;
+	transition: background-color 0.15s ;
+}
+
+.bootstrap_started:hover {
+	background-color: rgb(99, 60, 156);
+}
+
+.bootstrap_download {
+	background-color: white;
+	border: solid;
+	border-width: 1;
+	height: 40px;
+	width: 100px;
+	color: rgb(108, 117	, 125);
+	font-weight: 600;
+	border-radius:8px;
+	cursor: pointer;
+	transition: background-color 0.15s
+		color 0.15s;
+}
+
+.bootstrap_download:hover {
+	background-color: rgb(108, 117	, 125);
+	color: white;
+}
+
+.linked_apply {
+	background-color: rgb(10, 102, 194);
+	color: white;
+	border: none;
+	height: 40px;
+	width: 240px;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 20px;
+	cursor: pointer;
+	margin-right: 8px;
+	transition: background-color 0.15s ;
+}
+
+.linked_apply:hover {
+	background-color: rgb(9, 92, 176);
+}
+
+.linked_save {
+	background-color: white;
+	color: rgb(10, 102, 194);
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(10, 102, 194);
+	height: 40px;
+	width: 80px;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 20px;
+	cursor: pointer;
+	transition: border-width 0.15s;	
+}
+
+.linked_save:hover {
+	background-color: rgb(226, 240, 254);
+	border-width: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
